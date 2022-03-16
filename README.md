@@ -31,7 +31,8 @@
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2C2255?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Eclipse-2496ED?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
+    <!--
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp -->
 </p>
   
 <!--
