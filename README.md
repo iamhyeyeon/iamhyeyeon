@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hyeyeon&fontSize=90&animation=fadeIn&fontAlignY=30&desc=backend%20developer's%20study%20records&descAlignY=51&descAlign=62)
 
-<h2 align='center'><b>22.13.19 ~ Working🧑🏻‍💻<b> </h2>
+<h2 align='center'><b>22.12.19 ~ Working🧑🏻‍💻<b> </h2>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevpoooh&count_bg=%23FFD800&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/018e22c3-c4f0-448e-b4c2-819232a248b9.svg)](https://wakatime.com/@018e22c3-c4f0-448e-b4c2-819232a248b9)
